@@ -1,0 +1,13 @@
+.grid {
+    padding: 16px 16px;
+    border: 2px solid black;
+}
+
+.grid-parent {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid-change {
+    background-color: black;
+}
